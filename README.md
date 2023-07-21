@@ -1,3 +1,3 @@
 # Product-recommendation
 
-This is a product recommendation for e-commerce at the conglomerate company I did intership in AI field. This project gives recommendation of various products to users based on their characteristics and products purchased by using content-based system.
+This is a product recommendation for e-commerce at the conglomerate company I did an internship in the AI field. This project gives recommendations of various reward products to users based on their previous redeemed rewards by using a content-based system. 
